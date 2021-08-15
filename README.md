@@ -9,7 +9,7 @@ Is an app for daily exercise (walking, running, cycling) that focused on gamific
 BeFitSwiftUI uses ... comming soon.
 
 # Screens
-- Onboarding with exclusive 3D icons
+- Onboarding
 - Register
 - Activity
 - Club
